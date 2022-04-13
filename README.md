@@ -38,7 +38,7 @@ Given a single-page application portfolio for a web developer:
 ## Project Links
 [Repo Link](https://github.com/SepidehAyani/sepid_react_portfolio) <br>
 
-## Demo
+## Deployed App
 [Deployed App](https://sepid-react-portfolio.herokuapp.com/)
 
 ## Instructions
