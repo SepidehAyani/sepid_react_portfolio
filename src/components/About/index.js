@@ -6,7 +6,7 @@ import {
     CCardTitle,
     CCardText
 } from '@coreui/react';
-import coverImage from '../../assets/images/sepidA.png';
+import coverImage from '../../assets/images/alps.jpg';
 
 function AboutMe() {
     return (
