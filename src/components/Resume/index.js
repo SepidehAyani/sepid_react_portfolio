@@ -17,7 +17,7 @@ function Resume() {
             <div className="font-me">
                 <CListGroup>
                     <CListGroupItem>
-                        Curious learner who has some solid knowledge on the skills below and committed to keep growing in my field by implementing my experiences and learning new technologies; if I don't know the answer, I will find it!
+                        Curious learner who is skilled in a variety of front and back end languages and technologies. Committed to continuing to grow in my field by learning new technologies and implementing my knowledge and experience in new ways. If I don't know the answer, I will find it!
                     </CListGroupItem>
                 </CListGroup>
             </div>
