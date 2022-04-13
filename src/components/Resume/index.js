@@ -10,14 +10,14 @@ function Resume() {
         <section>
             <h1 className="section-title resume-title">My Resume</h1>
             <div className="resume-btn gap-1">
-                <CButton color="success" size="lg" href="./Sepideh_Ayani_Resume.pdf" download>Click here to download my resume!</CButton>
+                <CButton color="success" size="lg" href="./SA_Resume22.pdf" download>Click here to download my resume!</CButton>
             </div>
             <br />
             <h6 className="section-title-prof resume-title">Proficiencies</h6>
             <div className="font-me">
                 <CListGroup>
                     <CListGroupItem>
-                        Curious learner who has some solid knowledge on the skills below and committed to keep growing in my field by learning new technologies and implementing my experiences; if I don't know the answer, I will find it!
+                        Curious learner who has some solid knowledge on the skills below and committed to keep growing in my field by implementing my experiences and learning new technologies; if I don't know the answer, I will find it!
                     </CListGroupItem>
                 </CListGroup>
             </div>
