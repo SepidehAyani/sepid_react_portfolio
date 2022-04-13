@@ -21,9 +21,9 @@ function AboutMe() {
                 <CCardBody>
                     <CCardText>
                         <p className="flex-row">
-                        Passionate developer who is currently working as Software Engineer at Target, graduated from University of St. Thomas Master program on Computer Science –Big Data Concentration, and 
+                        Passionate developer who is currently working as a Software Engineer at Target, graduated from University of St. Thomas Master program on Computer Science –Big Data Concentration, and 
                             also recently graduated from University of Minnesota front-end coding bootcamp program which provided the opportunity to build a range of skills from REACT and JavaScript, to SQL and MongoDB. 
-                            Excited to develop responsive websites, and provide unique perspectives on how end users interact with websites and software platforms with a unique perspective.
+                            Excited to keep growing my skills, develop responsive websites, and provide unique perspectives on how end users interact with websites and software platforms with a unique perspective.
                         </p>
                     </CCardText>
                 </CCardBody>

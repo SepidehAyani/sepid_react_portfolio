@@ -74,7 +74,35 @@ function Projects() {
                         </CAccordionBody>
                     </div>
                 </CAccordionItem>
-                <CAccordionItem itemKey={1} className="my-experi">
+                <CAccordionItem itemKey={2} className="my-experience">
+                    <CAccordionHeader>
+                        <CCardTitle>Tech Blog</CCardTitle>
+                    </CAccordionHeader>
+                    <div className="my-projects">
+                        <CAccordionBody>
+                            <div className="center-img">
+                                <CImage
+                                    src={require(`../../assets/projectImages/tech_blog.png`).default}
+                                    alt="Tech Blog"
+                                    className="img-thumbnail mx-1"
+                                    key="Tech Blog"
+                                />
+                            </div>
+                            <CCardText>
+                                <h5 className="flex-row">
+                                    This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. This site completely is built from scratch and deployed to Heroku. This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication. </h5>
+                            </CCardText>
+
+                            <div className="GHBtn">
+                                <CButton target="_blank" href="https://github.com/SepidehAyani/tech_blog">GitHub Repo</CButton>
+                            </div>
+                            <div className="GHBtn">
+                                <CButton target="_blank" href="https://techblogch.herokuapp.com/">Deployed App</CButton>
+                            </div>
+                        </CAccordionBody>
+                    </div>
+                </CAccordionItem>
+                <CAccordionItem itemKey={1} className="my-experience">
                     <CAccordionHeader>
                         <CCardTitle>Budget Tracker</CCardTitle>
                     </CAccordionHeader>

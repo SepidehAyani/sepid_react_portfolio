@@ -10,8 +10,6 @@
     --tertiary-color: #d7e9e5;
 }
 
-/* Body */
-
 .body {
 	width: 100%;
 	background-color: var(--primary-color);
@@ -171,7 +169,6 @@
 .image > a > img{
 	height: 25px;
 	margin: 30px;
-	padding: 1px;
 }
 
 .footer {
