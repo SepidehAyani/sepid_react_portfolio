@@ -6,10 +6,10 @@ import {
 function Footer() {
     return (
         <CFooter>
-            <div className="image" name="Links">
-                <a href="https://github.com/SepidehAyani"><img src="./icons/github_logo.png" alt="GitHub"  width="42" height="42" /></a>
-                <a href="https://www.linkedin.com/in/sepidehayani/"><img alt="LinkedIn" src="./icons/linkedin_logo.png" /></a>
-                <a href="https://twitter.com/sepideha"><img alt="Twitter" src="./icons/twitter_logo.png" /></a>
+            <div>
+                <a target="_blank" href="https://github.com/SepidehAyani" rel="noreferrer">GitHub</a>&nbsp;&nbsp;&nbsp;
+                <a target="_blank" href="https://www.linkedin.com/in/sepidehayani/" rel="noreferrer">LinkedIn</a>&nbsp;&nbsp;&nbsp;
+                <a target="_blank" href="https://twitter.com/sepideha" rel="noreferrer">Twitter</a>
             </div>
             <div>
                 <a href="https://coreui.io">CoreUI</a>
