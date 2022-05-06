@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/SepidehAyani/sepid_react_portfolio/static/css/main.256885f8.chunk.css",
-    "main.js": "/SepidehAyani/sepid_react_portfolio/static/js/main.2850d3a1.chunk.js",
-    "main.js.map": "/SepidehAyani/sepid_react_portfolio/static/js/main.2850d3a1.chunk.js.map",
-    "runtime-main.js": "/SepidehAyani/sepid_react_portfolio/static/js/runtime-main.abc3abdd.js",
-    "runtime-main.js.map": "/SepidehAyani/sepid_react_portfolio/static/js/runtime-main.abc3abdd.js.map",
-    "static/css/2.e3e2b1b6.chunk.css": "/SepidehAyani/sepid_react_portfolio/static/css/2.e3e2b1b6.chunk.css",
-    "static/js/2.f36ef5a1.chunk.js": "/SepidehAyani/sepid_react_portfolio/static/js/2.f36ef5a1.chunk.js",
-    "static/js/2.f36ef5a1.chunk.js.map": "/SepidehAyani/sepid_react_portfolio/static/js/2.f36ef5a1.chunk.js.map",
-    "index.html": "/SepidehAyani/sepid_react_portfolio/index.html",
-    "static/css/2.e3e2b1b6.chunk.css.map": "/SepidehAyani/sepid_react_portfolio/static/css/2.e3e2b1b6.chunk.css.map",
-    "static/css/main.256885f8.chunk.css.map": "/SepidehAyani/sepid_react_portfolio/static/css/main.256885f8.chunk.css.map",
-    "static/js/2.f36ef5a1.chunk.js.LICENSE.txt": "/SepidehAyani/sepid_react_portfolio/static/js/2.f36ef5a1.chunk.js.LICENSE.txt",
-    "static/media/NPS.png": "/SepidehAyani/sepid_react_portfolio/static/media/NPS.b00cf025.png",
-    "static/media/alps.4a3ab224.jpg": "/SepidehAyani/sepid_react_portfolio/static/media/alps.4a3ab224.jpg",
-    "static/media/budget_tracker.png": "/SepidehAyani/sepid_react_portfolio/static/media/budget_tracker.b3daac65.png",
-    "static/media/mix_it_up.png": "/SepidehAyani/sepid_react_portfolio/static/media/mix_it_up.5b5d5260.png",
-    "static/media/note_taker.png": "/SepidehAyani/sepid_react_portfolio/static/media/note_taker.7a7bece8.png",
-    "static/media/regex.png": "/SepidehAyani/sepid_react_portfolio/static/media/regex.6623aa72.png",
-    "static/media/social_network_api.png": "/SepidehAyani/sepid_react_portfolio/static/media/social_network_api.81069320.png",
-    "static/media/tech_blog.png": "/SepidehAyani/sepid_react_portfolio/static/media/tech_blog.28c6fab9.png"
+    "main.css": "/sepid_react_portfolio/static/css/main.256885f8.chunk.css",
+    "main.js": "/sepid_react_portfolio/static/js/main.3a91bd6e.chunk.js",
+    "main.js.map": "/sepid_react_portfolio/static/js/main.3a91bd6e.chunk.js.map",
+    "runtime-main.js": "/sepid_react_portfolio/static/js/runtime-main.2d5d204c.js",
+    "runtime-main.js.map": "/sepid_react_portfolio/static/js/runtime-main.2d5d204c.js.map",
+    "static/css/2.e3e2b1b6.chunk.css": "/sepid_react_portfolio/static/css/2.e3e2b1b6.chunk.css",
+    "static/js/2.f36ef5a1.chunk.js": "/sepid_react_portfolio/static/js/2.f36ef5a1.chunk.js",
+    "static/js/2.f36ef5a1.chunk.js.map": "/sepid_react_portfolio/static/js/2.f36ef5a1.chunk.js.map",
+    "index.html": "/sepid_react_portfolio/index.html",
+    "static/css/2.e3e2b1b6.chunk.css.map": "/sepid_react_portfolio/static/css/2.e3e2b1b6.chunk.css.map",
+    "static/css/main.256885f8.chunk.css.map": "/sepid_react_portfolio/static/css/main.256885f8.chunk.css.map",
+    "static/js/2.f36ef5a1.chunk.js.LICENSE.txt": "/sepid_react_portfolio/static/js/2.f36ef5a1.chunk.js.LICENSE.txt",
+    "static/media/NPS.png": "/sepid_react_portfolio/static/media/NPS.b00cf025.png",
+    "static/media/alps.4a3ab224.jpg": "/sepid_react_portfolio/static/media/alps.4a3ab224.jpg",
+    "static/media/budget_tracker.png": "/sepid_react_portfolio/static/media/budget_tracker.b3daac65.png",
+    "static/media/mix_it_up.png": "/sepid_react_portfolio/static/media/mix_it_up.5b5d5260.png",
+    "static/media/note_taker.png": "/sepid_react_portfolio/static/media/note_taker.7a7bece8.png",
+    "static/media/regex.png": "/sepid_react_portfolio/static/media/regex.6623aa72.png",
+    "static/media/social_network_api.png": "/sepid_react_portfolio/static/media/social_network_api.81069320.png",
+    "static/media/tech_blog.png": "/sepid_react_portfolio/static/media/tech_blog.28c6fab9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.abc3abdd.js",
+    "static/js/runtime-main.2d5d204c.js",
     "static/css/2.e3e2b1b6.chunk.css",
     "static/js/2.f36ef5a1.chunk.js",
     "static/css/main.256885f8.chunk.css",
-    "static/js/main.2850d3a1.chunk.js"
+    "static/js/main.3a91bd6e.chunk.js"
   ]
 }
