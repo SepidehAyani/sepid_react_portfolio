@@ -39,7 +39,7 @@ Given a single-page application portfolio for a web developer:
 [Repo Link](https://github.com/SepidehAyani/sepid_react_portfolio) <br>
 
 ## Deployed App
-[Deployed App Link](https://sepid-react-portfolio.herokuapp.com/)
+[Deployed App Link](https://sepidehayani.github.io/sepid_react_portfolio/)
 
 ## Instructions
 - `git clone https://github.com/SepidehAyani/sepid_react_portfolio.git`
